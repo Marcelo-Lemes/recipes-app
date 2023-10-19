@@ -1,0 +1,12 @@
+.favorite-filters-buttons {
+    border: none;
+    width: 120px;
+    height: 30px;
+    margin: 25px;
+    cursor: pointer;
+}
+
+.favorite-filters-buttons:hover {
+    color: white;
+    background-color: black;
+}

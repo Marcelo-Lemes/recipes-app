@@ -1,0 +1,31 @@
+.footer {
+  bottom: 0;
+  position: fixed;
+  display: flex;
+}
+
+#logo {
+  width: 26vw;
+  height: 85px;
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+
+}
+
+#logo-icon {
+  font-size: 70px;
+  margin-top: 5px;
+  color: white;
+
+}
+
+.recipes-buttons {
+  border: none;
+  width: 37vw;
+  cursor: pointer;
+  background-color: #b9b9b9;
+}
+
+.recipes-buttons:hover {
+  background-color: #ffffff;
+}

@@ -1,0 +1,21 @@
+.recommended-box {
+
+    margin-bottom: 80px;
+}
+
+.recommended-card {
+    background-color: #fc6b0a;
+    color: white;
+    border: 5px solid white;
+    text-decoration: none;
+
+}
+
+.recommended-card > p {
+    text-decoration: none;
+}
+
+.carousel-img {
+    width: 45vw !important;
+    height: 25vw;
+}

@@ -1,0 +1,81 @@
+.recommended-box {
+  display: flex;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.recommended-card {
+  margin-left: 15px;
+  text-align: center;
+}
+
+.carousel-img {
+  width: 200px;
+}
+
+.start-button {
+  bottom: 0;
+  cursor: pointer;
+  height: 40px;
+  position: fixed;
+  width: 200px;
+  margin-left: 205px;
+}
+.back-button {
+  bottom: 0;
+  cursor: pointer;
+  height: 40px;
+  position: fixed;
+  width: 200px;
+  margin-right: 205px;
+ 
+}
+
+#details-card {
+
+  padding-top: 30px;
+}
+
+#details-image {
+  display: block;
+  width: 60vw;
+  border: 5px solid white;
+  height: auto;
+  margin: 0px auto;
+  box-shadow: 1px 1px 3px;
+
+}
+
+#details-buttons-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 25px;
+}
+
+.recipe-titles {
+  color: white;
+  font-size: 7vw;
+  text-align: center;
+  width: 100vw;
+  margin-bottom: 25px;
+}
+
+.ingredient-itens {
+  list-style: none;
+  text-align: center;
+  margin: 15px;
+  font-size: 5vw;
+}
+
+#recipes-buttons-box {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+#video {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+  width: 70vw;
+  height: 70vw;
+}

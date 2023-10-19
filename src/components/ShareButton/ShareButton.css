@@ -1,0 +1,16 @@
+.details-buttons {
+    border: none;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    cursor: pointer;
+    margin: auto 5px;
+}
+
+.details-buttons:hover {
+    color: rgb(0, 0, 0);
+}
+
+.details-image {
+    font-size: 10vw;
+
+}

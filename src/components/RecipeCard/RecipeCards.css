@@ -1,0 +1,34 @@
+#recipe-card {
+    display: flex;
+    margin: 25px;
+    width: 80vw;
+    background-color: #fc6b0a;
+    color: white;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.274);
+    font-style: normal;
+
+}
+
+#recipe-link {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
+
+#image-container {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+
+}
+
+#recipe-img {
+    width: 25vw;
+    height: auto;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+#recipe-name {
+    margin: auto;
+    padding: 25px;
+}

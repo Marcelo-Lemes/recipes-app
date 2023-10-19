@@ -1,0 +1,32 @@
+#done-card {
+    display: flex;
+    margin: 50px auto;
+
+    width: 80vw;
+    background-color: #fc6b0a;
+    color: white;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.274);
+    font-style: normal;
+}
+
+#done-img-box {
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+}
+
+#done-img {
+    width: 25vw;
+    height: auto;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+#favorite-text-box {
+    margin: auto;
+}
+
+#favorite-name {
+    margin: auto;
+    padding: 25px;
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+body {
+  background-color: #ffa927;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#recipes-container {
+  align-items: center;
+}
+
+#ajust {
+  height: 100px;
+}
+
+#filter-containers {
+  display: flex;
+  justify-content: center;
+}
+
+.filter-buttons {
+  text-align: center;
+  border: none;
+  padding: 2vw;
+  margin: 5px;
+  margin-top: 100px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.336);
+}
+

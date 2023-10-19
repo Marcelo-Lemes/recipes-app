@@ -1,0 +1,12 @@
+#task-list {
+    padding: 0;
+    width: fit-content;
+    margin: auto;
+    font-size: 5vw;
+    margin-bottom: 25px;
+}
+
+.ingredients-inputs {
+    margin: 0 15px;
+    width: 15px;
+}
